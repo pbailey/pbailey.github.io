@@ -20,4 +20,5 @@ The long term goal is to design and build the BEST development platform for HTML
 
 Starting immediately, this blog will be updated weekly. We will keep everyone up to date on progress, post examples, snippets, etc.
 
+
 Enjoy!
