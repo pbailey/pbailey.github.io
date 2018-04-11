@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Welcome to Valhalla
+title: The Valhalla Platform is Coming!
 ---
 
-The Valhalla Platform is Coming! - WIP
+Welcome to Valhalla! - WIP
 
-Hello Vikings, we are happy to welcome you to our blogging site!
+Hello Vikings, we are excited to welcome you to our blogging site!
 
 What has been a long journey for the PTR team is soon going to bear fruit, with the release of the upcoming Match 3 feature in June. We will have more exciting details on that next week in a post dedicated to that topic.
 
