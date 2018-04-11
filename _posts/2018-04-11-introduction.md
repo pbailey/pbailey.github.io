@@ -15,8 +15,8 @@ Short Term - The goal here is to support our Worlds migration from Flash to Html
 
 <would be nice to insert the short term roadmap here or something>
 
-The long term goal is to design and build the BEST development platform for HTML5 games. We are setting our sights high and want to go head to head with the best tools available in the marketplace. Quite a challenge, but that's what makes it fun!CHR(13)
+The long term goal is to design and build the BEST development platform for HTML5 games. We are setting our sights high and want to go head to head with the best tools available in the marketplace. Quite a challenge, but that's what makes it fun! 
    
-Starting immediately, this blog will be updated weekly. We will keep everyone up to date on progress, post examples, snippets, etc.CHR(13)
+Starting immediately, this blog will be updated weekly. We will keep everyone up to date on progress, post examples, snippets, etc. 
    
 Enjoy!
