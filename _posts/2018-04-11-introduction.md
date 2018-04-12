@@ -7,9 +7,9 @@ Welcome to Valhalla! - WIP
 
 Hello Vikings, we are excited to welcome you to our blogging site!
 
-What has been a long journey for the PTR team is soon going to bear fruit, with the release of the upcoming Match 3 feature in June. We will have more exciting details on that next week in a post dedicated to that topic.
+What has been a long journey for the PTR team is soon going to bear fruit, with the release of the upcoming Match 3 feature in June. We will have more exciting details on that very soon in a post dedicated to the topic.
 
-The Valhalla Platform is still a work in progress of course, and will continue to be into the future. Our goals are twofold:
+Valhalla is still a work in progress of course, and will continue to be into the future. Our goals are twofold:
 
 Short Term - The goal here is to support our Worlds migration from Flash to Html5, and to enable Worlds to add features such as Match 3 into the production environment, while gaining knowledge of our new technology.
 
