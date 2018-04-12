@@ -3,7 +3,7 @@ layout: post
 title: The Valhalla Platform is Coming!
 ---
 
-Hello Vikings.welcome to Valhalla - Our Game Development Platform for the future!
+Hello Vikings, welcome to Valhalla - Our Game Development Platform for the future!
 
 We are excited to welcome you to our blogging site.
 
