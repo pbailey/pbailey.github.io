@@ -4,7 +4,7 @@ title: The Valhalla Platform is Coming!
 ---
 Hello Vikings, welcome to Valhalla - Our Game Development Platform for the future! We are super excited to welcome you to our new blogging site.
 
-What has been a long journey for the PTR team is soon going to bear fruit, with the anticipated release of the upcoming Match 3 feature in June. We will have more exciting details on that very soon in a post or two dedicated to the topic.
+What has been a long journey for the PTR team is soon going to bear fruit, with the anticipated release of the upcoming Match 3 feature for Fishworld in June. We will have more exciting details on that very soon in a post or two dedicated to the topic.
 
 Valhalla is still a work in progress of course, and will continue to be into the future. Our goals are twofold:
 
