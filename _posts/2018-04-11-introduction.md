@@ -8,7 +8,7 @@ What has been a long journey for the PTR team is soon going to bear fruit, with 
 
 Valhalla is still a work in progress of course, and will continue to be into the future. Our goals are twofold:
 
-Short Term - We are providing technical capability and support for migrating our World games from Flash to Html5. Our tools will also enable the Worlds teams to add features such as Match 3 into the production environment. PTR will support the Worlds teams and help them to incrementally gain understanding of our new capabilities.
+Short Term - We are providing technical capability and support for migrating our World games from Flash to Html5. Our tools will also enable the Worlds teams to add features such as Match 3 into the live environment. PTR will support the Worlds teams and help them to incrementally gain understanding of our new capabilities.
 
 Long term, we will design and build THE BEST development platform for HTML5 games. Once our own game teams are working smoothly with the new tech, we are going to take Valhalla to the world. We are setting our sights high and want to go head to head with the best tools available in the marketplace. Quite a challenge, but that's what makes it fun! 
    
