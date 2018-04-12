@@ -37,17 +37,18 @@ Can we discuss them at a user decipherable level - I hope so...
 
 4. The Road to Match 3 Heaven
 
-  wherein we chart the course and dicuss any trials and tribulations
-  The graphics engine and the editor were being devloped at the same time
+Wherein we chart the course and dicuss any trials and tribulations
+
+The graphics engine and the editor were being devloped at the same time
 
 
 
 5. Eh Voila - Success
 Match 3 is in the final phases of development and things are moving along swimingly well :-). The outlook is quite positive for a June delivery of Match 3 to our Fishworld players. 
 
-Big shout out to Shaul Pauley for all the hard work he put into the creation of this fun addition to Fishworld. It looks great and we think the players will love it. Having Shaun work hand in hand with the PTR team has helped us finetune the engine, identify and address problems, and his feedback and ideas for changes and additions to the engine have made THOR and ODIN better products. Its been great for the PTR to have its first real customer that is pushing our technology out into the world. Thanks Shaun.
+Big shout out to Shaul Pauley for all the hard work he put into the creation of this fun addition to Fishworld. It looks great and we think the players will love it. Having Shaun work hand in hand with the PTR team has helped us finetune the engine, identify and address problems, and his feedback and ideas for changes and additions to the engine have made THOR and ODIN better products. Its been great for the PTR to have its first real customer that is pushing our technology out into the world. 
 
-Thanks goe out to the Artists too, for all the beautiful things you made to make the game look amazing. What a great team we have here.
+Thanks Shaun!
 
 
 
