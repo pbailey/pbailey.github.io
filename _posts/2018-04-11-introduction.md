@@ -15,6 +15,6 @@ Short Term - We are providing technical capability and support for migrating our
 
 Long term, we will design and build THE BEST development platform for HTML5 games. Once our own game teams are working smoothly with the new tech, we are going to take Valhalla to the world. We are setting our sights high and want to go head to head with the best tools available in the marketplace. Quite a challenge, but that's what makes it fun! 
    
-Starting immediately, this blog will be updated weekly. We will keep everyone up to date on progress, post examples, snippets, etc. 
+Starting immediately, new posts will be added to this site weekly. We will keep everyone up to date on progress, post examples, snippets, etc. 
    
 Enjoy!
