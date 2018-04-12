@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example content
+title: Introduction to Match 3, Fishworld Stye
 ---
 
 
