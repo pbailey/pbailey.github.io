@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to Match 3, Fishworld Stlye
+title: Match 3, ThorCC Stlye
 ---
 
 Match 3 Article Outline
