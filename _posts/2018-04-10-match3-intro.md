@@ -8,7 +8,6 @@ title: Introduction to Match 3, Fishworld Stye
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 </div>
 
-<div class="message">
   Let's put the Outline for this article here:
   1. Overview
   2. What were we trying to accomplish
@@ -16,7 +15,7 @@ title: Introduction to Match 3, Fishworld Stye
   4. The Road to Match 3 Heaven
   5. Eh Voila - Success
 
-</div>
+
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
