@@ -15,4 +15,4 @@ Long term, we will design and build THE BEST development platform for HTML5 game
    
 Starting immediately, new posts will be added to this site weekly. We will keep everyone up to date on progress, post examples, snippets, etc. 
    
-Enjoy!
+Thanks for reading!
