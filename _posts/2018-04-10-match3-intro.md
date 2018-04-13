@@ -13,7 +13,7 @@ Match 3 Article Outline
   5. Eh Voila - Success
 
 
-1. Overview
+1 - Overview
 
 At the Fishworld product design scrums, it was decided that it would be a good idea to integrate a Match 3 mini-game into our live Fishworld game.
 
@@ -21,7 +21,7 @@ Due to the timing of migration and the upcoming switch of core technology away f
 
 The solution agreed upon was to build a sort of hybrid solution. This would be comprised of creating an interface in the live Flash game to handle communication between Match 3 and the Fishworld base. We would then combine that with the Match 3 game elements (screens and logic) being written in C++ with our new engine. The two things are bridged through the magic of HTML5.
 
-2. What were we trying to accomplish
+2 - What were we trying to accomplish
 
 As discussed, out main issue was to get our old and new core technologies talking and working together to create a seamless experiance for our users. There were several benefits of doing this:
 
@@ -29,13 +29,13 @@ As discussed, out main issue was to get our old and new core technologies talkin
 
   2. Allowed us to start proving our new technology by providing a customer (Shaun Pauley), and a specific deiverable.
 
-3. What were the technical challenges
+3 - What were the technical challenges
 
 How did we solve the technical problems
 Can we discuss them at a user decipherable level - I hope so...
 
 
-4. The Road to Match 3 Heaven
+4 - The Road to Match 3 Heaven
 
 Wherein we chart the course and dicuss any trials and tribulations
 
@@ -43,7 +43,7 @@ The graphics engine and the editor were being devloped at the same time
 
 
 
-5. Eh Voila - Success
+5 - Eh Voila - Success
 Match 3 is in the final phases of development and things are moving along swimingly well :-). The outlook is quite positive for a June delivery of Match 3 to our Fishworld players. 
 
 
