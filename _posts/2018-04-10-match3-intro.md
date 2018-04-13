@@ -19,7 +19,7 @@ At the Fishworld product design scrums, it was decided that it would be a good i
 
 Due to the timing of migration and the upcoming switch of core technology away from Flash, this presented us with a conundrom - the code base for this game feature is of a significant size. If we proceeded to implement it in Flash, we could get it out reasonably quickly but then it would need a full migration in the future, That would add to an already large migration backlog. If we waited for completion of Migration, it would delay the potential revenue generation we hoped to see by many months.
 
-The solution agreed upon was to build a sort of hybrid solution. This would be comprised of creating an interface in the live Flash game to handle communication between Match 3 and the Fishworld base. We would then combine that with the Match 3 game elements (screens and logic) being written in C++ with our new engine. The two things are bridged through the magic of HTML5.
+The solution agreed upon was to build a sort of hybrid solution. This would be comprised of creating an interface in the live Flash game to handle communication between Match 3 and the Fishworld base. We would then combine that with the Match 3 game elements (screens and logic) being written in C++ with our new engine. The two things are bridged through the magic of HTML5 and Javascript.
 
 2 - What were we trying to accomplish
 
