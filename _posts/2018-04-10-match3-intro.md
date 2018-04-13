@@ -23,7 +23,7 @@ The solution agreed upon was to build a sort of hybrid solution. This would be c
 
 2 - What were we trying to accomplish
 
-As discussed, out main issue was to get our old and new core technologies talking and working together to create a seamless experiance for our users. There were several benefits of doing this:
+As discussed, out main issue was to get our old and new core technologies talking and working together to create a seamless experience for our users. There were several benefits of doing this:
 
   1. Solved the adding too much to the migration backlog issue
 
@@ -39,7 +39,7 @@ Can we discuss them at a user decipherable level - I hope so...
 
 Wherein we chart the course and dicuss any trials and tribulations
 
-The graphics engine and the editor were being devloped at the same time
+The graphics engine and the editor were being devloped at the same time - discuss the problems that created
 
 
 
