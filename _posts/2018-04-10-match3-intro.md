@@ -15,9 +15,9 @@ Match 3 Article Outline
 
 1 - Overview
 
-At the Fishworld product design scrums, it was decided that it would be a good idea to integrate a Match 3 mini-game into our live Fishworld game.
+As all Vikings know, supporting and growing a live game requires constanly tending to the software and adding new features to maximize the ongoing happiness of our players! Product design scrums deteremined that adding Match 3 to Fishworld would add a desireable new feature, and would hopefully also be good from a revenue generating perspective.
 
-Due to the timing of migration and the upcoming switch of core technology away from Flash, this presented us with a conundrom - the code base for this game feature is of a significant size. If we proceeded to implement it in Flash, we could get it out reasonably quickly but then it would need a full migration in the future, That would add to an already large migration backlog. If we waited for completion of Migration, it would delay the potential revenue generation we hoped to see by many months.
+Due to the timing of migration and the upcoming switch of core technology away from Flash, this presented us with a some hard decisions. The code required to build Match 3 would be of a significant size. If we proceeded to implement it in Flash, we could get it out reasonably quickly but then it would need a full migration in the future. That would add to an already large migration backlog. Waiting for migration completion would delay the potential revenue generation we hoped to see by many months.
 
 The solution agreed upon was to build a sort of hybrid solution. This would be comprised of creating an interface in the live Flash game to handle communication between Match 3 and the Fishworld base. We would then combine that with the Match 3 game elements (screens and logic) being written in C++ with our new engine. The two things are bridged through the magic of HTML5 and Javascript.
 
@@ -30,9 +30,12 @@ As discussed, out main issue was to get our old and new core technologies talkin
   2. Allowed us to start proving our new technology by providing a customer (Shaun Pauley), and a specific deiverable.
 
 3 - What were the technical challenges
+There we several things that were identifed as issues
 
 How did we solve the technical problems
 Can we discuss them at a user decipherable level - I hope so...
+The Thor engine supports multiple types of animation - which one - Decided to go with Spine Animation - seemed like the best choice
+
 
 
 4 - The Road to Match 3 Heaven
