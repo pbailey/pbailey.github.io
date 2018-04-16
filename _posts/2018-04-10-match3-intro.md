@@ -15,9 +15,9 @@ Match 3 Article Outline
 
 1 - Overview
 
-As all Vikings know, supporting and growing a live game requires constanly tending to the software and adding new features to maximize the ongoing happiness of our players! Product design scrums deteremined that adding Match 3 to Fishworld would add a desireable new feature, and would hopefully also be good from a revenue generating perspective.
+As all Vikings know, supporting and growing a live game requires constanly tending to the software and adding new features to maximize the ongoing happiness of our players! The Fishworld product design team deteremined that adding Match 3 to Fishworld would add a desireable new feature for our users. Hopefully it would also be good from a revenue generating perspective.
 
-Due to the timing of migration and the upcoming switch of core technology away from Flash, this presented us with a some hard decisions. The code required to build Match 3 would be of a significant size. If we proceeded to implement it in Flash, we could get it out reasonably quickly but then it would need a full migration in the future. That would add to an already large migration backlog. Waiting for migration completion would delay the potential revenue generation we hoped to see by many months.
+Due to the timing of migration and the upcoming switch of core technology away from Flash, this presented us with a some hard decisions. The code required to build Match 3 would be of a significant size. If we proceeded to implement it in Flash, we could get it out reasonably quickly but then it would need a full migration in the future. That would add to an already large migration backlog. Waiting for migration completion on the other hand would delay the potential revenue generation we hoped to see by many months.
 
 The solution agreed upon was to build a sort of hybrid solution. This would be comprised of creating an interface in the live Flash game to handle communication between Match 3 and the Fishworld base. We would then combine that with the Match 3 game elements (screens and logic) being written in C++ with our new engine. The two things are bridged through the magic of HTML5 and Javascript.
 
