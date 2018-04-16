@@ -15,7 +15,7 @@ Match 3 Article Outline
 
 1 - Overview
 
-As all Vikings know, supporting and growing a live game requires constanly tending to the software and adding new features to maximize the ongoing happiness of our players! The Fishworld product design team deteremined that adding Match 3 to Fishworld would add a desireable new feature for our users. Hopefully it would also be good from a revenue generating perspective.
+As all Vikings know, supporting and growing a live game requires constanly tending to the software and adding new features to maximize the ongoing happiness of our players! The Fishworld product design team determined that adding Match 3 to Fishworld would add a desireable new feature for our users. Hopefully it would also be good from a revenue generating perspective.
 
 Due to the timing of migration and the upcoming switch of core technology away from Flash, this presented us with a some hard decisions. The code required to build Match 3 would be of a significant size. If we proceeded to implement it in Flash, we could get it out reasonably quickly but then it would need a full migration in the future. That would add to an already large migration backlog. Waiting for migration completion on the other hand would delay the potential revenue generation we hoped to see by many months.
 
@@ -23,14 +23,22 @@ The solution agreed upon was to build a sort of hybrid solution. This would be c
 
 2 - What were we trying to accomplish
 
-As discussed, out main issue was to get our old and new core technologies talking and working together to create a seamless experience for our users. There were several benefits of doing this:
+From a gamers perspective, add a cool new feature to Fishworld to increase user interest, and grow our revenue base.
 
-  1. Solved the adding too much to the migration backlog issue
+From the technical perspective, combine our old and new core technologies and create a seamless and entertaining experience for our users.
+ 
+The benefits of the approach were:
 
-  2. Allowed us to start proving our new technology by providing a customer (Shaun Pauley), and a specific deiverable.
+  1. We minimized the effect on the migtration backlog
+
+  2. The plan provided PTR with its first production ready customer (Shaun Pauley), and a specific deiverable for insertion into the live Fishworld game environment.
 
 3 - What were the technical challenges
-There we several things that were identifed as issues
+
+1. The Thor enginge supports several types of Animation, one needed to be decided upon for Match 3 - the winner in this case was .... Spine Animation
+
+2. Adding the new game functionality while ensuring the separation of the technologies used - this was accomplised by creating a bridge - calling out from Fishworld to HTML5 and bridging that to Emscripten (the technology that lets us complile Thor down to WebAssembly)
+
 
 How did we solve the technical problems
 Can we discuss them at a user decipherable level - I hope so...
@@ -43,6 +51,8 @@ The Thor engine supports multiple types of animation - which one - Decided to go
 Wherein we chart the course and dicuss any trials and tribulations
 
 The graphics engine and the editor were being devloped at the same time - discuss the problems that created
+- This was the biggest challenge for all developers on both sides to the engine.
+
 
 
 
